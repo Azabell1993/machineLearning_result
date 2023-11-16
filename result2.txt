@@ -1,0 +1,6 @@
+Temperature: float64
+Humidity: float64
+WindSpeed: float64
+Rainfall: float64
+Holiday: float64
+BikeRentals: float64

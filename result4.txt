@@ -1,0 +1,7 @@
+Temperature    100
+Humidity       100
+WindSpeed        0
+Rainfall         0
+Holiday          0
+BikeRentals      0
+dtype: int64

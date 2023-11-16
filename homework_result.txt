@@ -1,0 +1,16 @@
+결과 분석:
+
+- result1.txt:
+각 열에 대한 통계적인 분석이 수행된 정규화된 데이터가 포함되어 있다.
+열은 온도(Temperature), 습도(Humidity), 풍속(WindSpeed), 강수량(Rainfall), 휴일 여부(Holiday), 자전거 대여량(BikeRentals)이다.
+
+- result2.txt:
+각 feature(특징)의 데이터 타입이 기술되어 있다. 모든 feature는 부동 소수점(float64) 형식이다.
+
+- result3.txt 및 result4.txt:
+각 feature에 대한 결측치(누락된 값)의 수를 보여준다. 모든 feature에서 결측치가 없음을 나타낸다.
+
+- result5.txt:
+머신러닝 결과에 대한 정보가 포함되어 있다.
+예측값(Predictions)과 실제값(True Values)이 제공되며 이 값들은 자전거 대여량을 나타낸다.
+머신러닝 모델이 예측한 값과 실제 값 사이의 차이를 평가할 수 있다.
